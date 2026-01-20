@@ -4,4 +4,4 @@ title: "About Me"
 permalink: /about
 ---
 
-electrical systems test engineer, cook, traveler
+Electrical systems test engineer, cook, traveler
