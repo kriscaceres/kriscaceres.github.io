@@ -9,9 +9,11 @@ categories: travel
 ### Dominican Republic 
 I've visited each of these years: 2005, 2007, 2009, 2011, 2013, 2015, 2021, 2022, 2024
 
-### Costa Rica 2019
+### Philadelphia 2018
 
 ### Cape Cod 2018
+
+### Costa Rica 2019
 
 ### Boston 2022
 
