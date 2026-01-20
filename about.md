@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 permalink: /about
 ---
 
-electrical systems test engineer, cook, traveler
+Electrical systems test engineer, home cook, traveler. I hope to share what I've experienced and learned, my projects, and what's to come.
